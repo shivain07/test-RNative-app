@@ -6,3 +6,4 @@ The app covers the following features
 4. Use Redux to manage the app's state.
 5. Write clean and maintainable code that follows best practices.
 > #NOTE : I didn't implement REDUX in this app as I don't have much clearilty on it.
+![Test-RN-pic](https://user-images.githubusercontent.com/83839735/226161097-e8e45618-5c1a-4feb-a5f7-8a3793d69331.png)
